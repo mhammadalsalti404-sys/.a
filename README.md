@@ -457,7 +457,7 @@
             
             <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
                 <a href="https://www.instagram.com/mha40471" target="_blank" class="cyber-btn" style="text-decoration: none; display: block; width: fit-content;">راسنا عبر انستغرام</a>
-                <p style="color: var(--primary-neon); font-weight: bold;">المقر الرسمي: السلط، الأردن</p>
+                <p style="color: var(--primary-neon); font-weight: bold;"> الامن السيبراني  </p>
             </div>
         </div>
     </section>
